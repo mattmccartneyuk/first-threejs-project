@@ -6,5 +6,5 @@ After finishing the guide, I built a basic toggleable animation, which is trigge
 
 ## Setup Instructions
 
-npm install
-npx vite
+- npm install
+- npx vite
